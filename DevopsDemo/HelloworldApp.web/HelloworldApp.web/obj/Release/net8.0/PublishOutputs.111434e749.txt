@@ -1,0 +1,7 @@
+C:\Users\naveen.subramaniam\DevopsDemo\HelloworldApp.web\HelloworldApp.web\bin\Release\net8.0\publish\HelloworldApp.web.exe
+C:\Users\naveen.subramaniam\DevopsDemo\HelloworldApp.web\HelloworldApp.web\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\naveen.subramaniam\DevopsDemo\HelloworldApp.web\HelloworldApp.web\bin\Release\net8.0\publish\appsettings.json
+C:\Users\naveen.subramaniam\DevopsDemo\HelloworldApp.web\HelloworldApp.web\bin\Release\net8.0\publish\HelloworldApp.web.dll
+C:\Users\naveen.subramaniam\DevopsDemo\HelloworldApp.web\HelloworldApp.web\bin\Release\net8.0\publish\HelloworldApp.web.deps.json
+C:\Users\naveen.subramaniam\DevopsDemo\HelloworldApp.web\HelloworldApp.web\bin\Release\net8.0\publish\HelloworldApp.web.runtimeconfig.json
+C:\Users\naveen.subramaniam\DevopsDemo\HelloworldApp.web\HelloworldApp.web\bin\Release\net8.0\publish\HelloworldApp.web.pdb
